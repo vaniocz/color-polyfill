@@ -1,0 +1,9 @@
+{
+  "name": "input-color-polyfill",
+  "version": "0.0.2",
+  "description": "Polyfill for input type color",
+  "main": "./color-polyfill.js",
+  "dependencies": {
+    "jquery-ui-slider": "^1.12.1"
+  }
+}
